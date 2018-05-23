@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Anim>
+ <Data id="1" name="boring" startFrame="0f" endFrame="125f" />
+ <Data id="2" name="Drinking" startFrame="126f" endFrame="226f" />
+ <Data id="3" name="Eating" startFrame="227f" endFrame="347f" />
+ <Data id="4" name="Explanation" startFrame="348f" endFrame="393f" />
+ <Data id="5" name="Looking_around" startFrame="394f" endFrame="570f" />
+ <Data id="6" name="Reject" startFrame="571f" endFrame="671f" />
+ <Data id="7" name="Going_asleep" startFrame="672f" endFrame="742f" />
+ <Data id="8" name="sleeping" startFrame="743f" endFrame="818f" />
+ <Data id="9" name="Waking_up" startFrame="819f" endFrame="884f" />
+ <Data id="10" name="Run" startFrame="889f" endFrame="911f" />
+ <Data id="11" name="Jump_runing" startFrame="916f" endFrame="956f" />
+ <Data id="12" name="Say_No" startFrame="961f" endFrame="1011f" />
+ <Data id="13" name="Shrugs" startFrame="1012f" endFrame="1057f" />
+ <Data id="14" name="sit_down" startFrame="1058f" endFrame="1084f" />
+ <Data id="15" name="came_up" startFrame="1085f" endFrame="1111f" />
+ <Data id="16" name="StandingFree" startFrame="1112f" endFrame="1212f" />
+ <Data id="17" name="Talking_A" startFrame="1213f" endFrame="1258f" />
+ <Data id="18" name="Use_object" startFrame="1259f" endFrame="1299f" />
+ <Data id="19" name="Kiss" startFrame="1300f" endFrame="1385f" />
+ <Data id="20" name="pointing_A" startFrame="1386f" endFrame="1446f" />
+ <Data id="21" name="Sneaking" startFrame="1451f" endFrame="1501f" />
+ <Data id="22" name="walk" startFrame="1506f" endFrame="1556f" />
+ <Data id="23" name="walking_back" startFrame="1561f" endFrame="1596f" />
+ <Data id="24" name="Moving_left" startFrame="1601f" endFrame="1621f" />
+ <Data id="25" name="Moving_right" startFrame="1626f" endFrame="1646f" />
+ <Data id="26" name="Crawling" startFrame="1651f" endFrame="1681f" />
+ <Data id="27" name="Crouching" startFrame="1686f" endFrame="1786f" />
+ <Data id="28" name="Climbing_ladder" startFrame="1791f" endFrame="1821f" />
+ <Data id="29" name="Hit_from_front" startFrame="1826f" endFrame="1861f" />
+ <Data id="30" name="Dying_A" startFrame="1866f" endFrame="1906f" />
+</Anim>

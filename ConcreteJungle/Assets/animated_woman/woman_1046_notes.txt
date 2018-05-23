@@ -1,0 +1,51 @@
+Animated woman
+
+Low polygonal game ready animated model of woman 
+Can be imported and used with Unity 4.x Mechanim.
+
+Model has 1046  polygons and 1018 vertexes.
+Pack includes 30 animations.
+ 
+Texture is layered TIF file format 2048x2048 which gives you ability to change colors for hair, clothes and body parts.
+
+Here you can see animations preview: http://www.youtube.com/watch?v=v3jpT8jnz8s
+
+Animation list:
+
+1. boring: 0 - 125 fr.,
+ 2. Drinking: 126 - 226 fr.,
+ 3. Eating: 227 - 347 fr.,
+ 4. Explanation: 348 - 393 fr.,
+ 5. Looking_around: 394 - 570 fr.,
+ 6. Reject: 571 - 671 fr.,
+ 7. Going_asleep: 672 - 742 fr.,
+ 8. sleeping: 743 - 818 fr.,
+ 9. Waking_up: 819 - 884 fr.,
+ 10. Run: 885 - 906 fr.,
+ 11. Jump_runing: 908 - 948 fr.,
+ 12. Say_No: 949 - 999 fr.,
+ 13. Shrugs: 1000 - 1045 fr.,
+ 14. sit_down: 1046 - 1072 fr.,
+ 15. came_up: 1073 - 1099 fr.,
+ 16. StandingFree: 1100 - 1200 fr.,
+ 17. Talking_A: 1201 - 1246 fr.,
+ 18. Use_object: 1247 - 1287 fr.,
+ 19. Kiss: 1288 - 1373 fr.,
+ 20. pointing_A: 1374 - 1434 fr.,
+ 21. Sneaking: 1439 - 1489 fr.,
+ 22. walk: 1495 - 1544 fr.,
+ 23. walking_back: 1549 - 1584 fr.,
+ 24. Moving_left: 1589 - 1609 fr.,
+ 25. Moving_right: 1614 - 1634 fr.,
+ 26. Crawling: 1640 - 1669 fr.,
+ 27. Crouching: 1674 - 1774 fr.,
+ 28. Climbing_ladder: 1779 - 1809 fr.,
+ 29. Hit_from_front: 1814 - 1849 fr.,
+ 30. Dying_A: 1854 - 1894 fr.,
+
+
+If you have questions using this model, pleas mail me: mr.necturus@gmail.com
+
+
+female, character, SIMS, prototype, woman,  poly, polygonal, video, game, wow, rpg, mmo, fps, baby, sexy, beauty, realistic
+
